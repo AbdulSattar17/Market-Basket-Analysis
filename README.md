@@ -2,8 +2,11 @@ Market Basket Analysis using Apriori Algorithm
 This project demonstrates Market Basket Analysis using Association Analysis with the Apriori Algorithm. The goal is to find hidden patterns in transactional data. The data comes from the UCI Machine Learning Repository and represents transactions from a UK retailer from 2010-2011, primarily sales to wholesalers.
 
 Prerequisites
+
 Python 3.x
+
 Pandas
+
 MLxtend
 
 You can install the required packages using:
